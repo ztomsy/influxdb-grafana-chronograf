@@ -1,4 +1,4 @@
-# docker-compose-influxdb-grafana-chronograf
+# influxdb-grafana-chronograf
 
 Multi-container Docker app built from the following services:
 
